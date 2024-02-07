@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=dark" alt="mjfactor" /></p>
 
-![snake animation](https://github.com/mjfactor/mjfactor/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/mjfactor/mjfactor/blob/output/github-contribution-grid-snake.svg)
