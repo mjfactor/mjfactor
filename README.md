@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjfactor&show_icons=true&theme=dark&locale=en" alt="mjfactor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=dark" alt="mjfactor" /></p>
+
+![snake animation](https://github.com/mjfactor/mjfactor/blob/output/github-contribution-grid-snake2.svg)
