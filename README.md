@@ -12,13 +12,11 @@
 
 - 📫 How to reach me **emjayfactor@gmail.com**
 
-- ⚡ Fun fact **I'm a fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/mosfet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mosfet" height="30" width="40" /></a>
 <a href="https://fb.com/emjay factor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emjay factor" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mosfet09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mosfet09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
