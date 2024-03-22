@@ -38,8 +38,30 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="css3 logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="30" alt="javascript logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="30" alt="javascript logo"  />
 </div>
+
 <h3 align="left">IDEs & Editors:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="30" alt="python logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellijidea logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" height="30" alt="webstorm logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="30" alt="webstorm logo"  />
+</div>
+
+<h3 align="left">Operating System</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="30" alt="python logo"  />
   <img width="1" />
