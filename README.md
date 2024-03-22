@@ -46,6 +46,14 @@
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="30" alt="javascript logo"  />
 </div>
 
+<h3 align="left">Frameworks & Libraries:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" height="30" alt="python logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
+</div>
+
 <h3 align="left">IDEs & Editors:</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="30" alt="python logo"  />
@@ -61,23 +69,40 @@
   <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="30" alt="webstorm logo"  />
 </div>
 
-<h3 align="left">Operating System</h3>
+<h3 align="left">Operating System:</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="30" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="python logo"  />
   <img width="1" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellijidea logo"  />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" height="30" alt="webstorm logo"  />
+</div>
+
+<h3 align="left">Developer/Forums:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" alt="python logo"  />
   <img width="1" />
-  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="30" alt="webstorm logo"  />
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30" alt="pycharm logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
+</div>
+
+<h3 align="left">Version Control:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30" alt="python logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
+  
 </div>
 
 ###
-
 ###
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjfactor&show_icons=true&theme=dark&locale=en&layout=compact" alt="mjfactor" /></p>
 
