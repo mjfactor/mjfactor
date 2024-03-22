@@ -14,20 +14,44 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/mosfet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mosfet" height="30" width="40" /></a>
-<a href="https://fb.com/emjay factor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emjay factor" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java logo"  />
+  <a href="https://fb.com/emjay factor"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" alt="python logo"/></a>
+  <img width="1"> 
+  <a href="https://www.linkedin.com/in/emjay-factor-6b01ab209/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="python logo"/></a>
+  <img width="1"> 
+</div>
+
+<h3 align="left">Languages:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" alt="csharp logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+</div>
+<h3 align="left">IDEs & Editors:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="30" alt="python logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellijidea logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" height="30" alt="webstorm logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="30" alt="webstorm logo"  />
 </div>
 
 ###
