@@ -19,6 +19,7 @@
   <img width="1"> 
   <a href="https://www.linkedin.com/in/emjay-factor-6b01ab209/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="python logo"/></a>
   <img width="1"> 
+  
 </div>
 
 <h3 align="left">Languages:</h3>
@@ -51,6 +52,8 @@
   <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" height="30" alt="python logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/swing-red?style=for-the-badge&logo=coffeescript" height="30" alt="pycharm logo"  />
   <img width="1" />
 </div>
 
