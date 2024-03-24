@@ -107,10 +107,9 @@
 
 ###
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjfactor&show_icons=true&theme=dark&locale=en&layout=compact" alt="mjfactor" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="mjfactor" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjfactor&show_icons=true&theme=dark&locale=en" alt="mjfactor" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en" alt="mjfactor" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=dark" alt="mjfactor" /></p>
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor" />
 
