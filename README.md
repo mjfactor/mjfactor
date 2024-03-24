@@ -107,6 +107,8 @@
 
 ###
 ###
+<hr>
+<h3 align="left">Dashboard:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="mjfactor" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en" alt="mjfactor" />
