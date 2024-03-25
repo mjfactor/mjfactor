@@ -116,8 +116,6 @@
 <img align="center" src="https://github-readme-stats-mjfctors-projects.vercel.app/api?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en" alt="mjfactor" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor" />
 <hr>
-<details>
-  <summary>Feeding the Snake</summary>
-  <img src="https://github.com/mjfactor/mjfactor/blob/output/snake.svg" alt="Snake animation" />
-</details>
+<img src="https://github.com/mjfactor/mjfactor/blob/output/snake.svg" alt="Snake animation" />
+
 
