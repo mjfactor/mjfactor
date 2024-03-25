@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="30" alt="javascript logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="30" alt="javascript logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30" alt="javascript logo"  />
 </div>
 
 <h3 align="left">Frameworks & Libraries:</h3>
