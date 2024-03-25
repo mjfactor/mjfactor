@@ -117,3 +117,5 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor" />
 
+
+<img src="https://github.com/mjfactor/mjfactor/blob/output/snake.svg" alt="Snake animation" />
