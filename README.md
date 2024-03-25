@@ -111,10 +111,8 @@
 ###
 <hr>
 <h3 align="left">Dashboard:</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="mjfactor" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="mjfactor" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en" alt="mjfactor" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor" />
 <hr>
 <img src="https://github.com/mjfactor/mjfactor/blob/output/snake.svg" alt="Snake animation" />
