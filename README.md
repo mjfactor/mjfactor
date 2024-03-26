@@ -57,6 +57,10 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/swing-red?style=for-the-badge&logo=coffeescript" height="30" alt="pycharm logo"  />
   <img width="1" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
 </div>
 
 <h3 align="left">IDEs & Editors:</h3>
