@@ -106,6 +106,10 @@
   <img width="1" />
   
 </div>
+<details>
+  <summary>Contribution</summary>
+  <img src="https://github.com/mjfactor/mjfactor/blob/output/snake.svg" alt="Snake animation" />
+</details>
 <hr>
 <h3 align="left">Dashboard:</h3>
 <a href="">
@@ -115,7 +119,6 @@
 
 ###  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor" />
-<hr>
-<img src="https://github.com/mjfactor/mjfactor/blob/output/snake.svg" alt="Snake animation" />
+
 
 
