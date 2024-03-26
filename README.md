@@ -104,8 +104,8 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
-  
 </div>
+<br>
 <details>
   <summary>Contribution</summary>
   <img src="https://github.com/mjfactor/mjfactor/blob/output/snake.svg" alt="Snake animation" />
