@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
 </div>
-<h3 align="left">CI (Continues Integration):</h3>
+<h3 align="left">CI/CD:</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="30" alt="python logo"  />
   <img width="1" />
