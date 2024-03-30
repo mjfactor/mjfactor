@@ -10,14 +10,14 @@
 
 - 👨‍💻 Some of my projects are available at [https://mjfactor.netlify.app/](https://mjfactor.netlify.app/)
 
-- 💬 Ask me about **Java, Python, Tech**
+- 💬 Ask me about **Java, Python,Tech**
 
 - 📫 How to reach me **emjayfactor@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.facebook.com/profile.php?id=100009675437425"target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30"  alt="python logo"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100009675437425"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30"  alt="python logo"/></a>
   <img width="1"> 
   <a href="https://www.linkedin.com/in/emjay-factor-6b01ab209/"target="_blank" rel="noopener"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  height="30" alt="python logo"/></a>
   <img width="1"> 
