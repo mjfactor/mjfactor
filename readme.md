@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA, Dynamic Programming**
 
-- 👨‍💻 Some of my projects are available at [https://mjfactor.netlify.app/](https://mjfactor.netlify.app/) 
+- 👨‍💻 Some of my projects are available at [https://mjfactor.netlify.app/](https://mjfactor.netlify.app/{:target="_blank"} )
 
 - 💬 Ask me about **Java, Python, Tech**
 
