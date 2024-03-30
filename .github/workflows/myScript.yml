@@ -1,0 +1,20 @@
+name: Running Script
+
+on:
+  schedule:
+    - cron: '*/1 * * * *' 
+
+jobs:
+  push_changes:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      
+    - name: Replace Keywords
+      run: |
+        python script.py
+        git add readme.md
+        git commit -m "update"
+        git push
