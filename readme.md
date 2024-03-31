@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://mjfactor.netlify.app/](https://mjfactor.netlify.app/)
 
-- 💬 Ask me about **Java, Python,Tech**
+- 💬 Ask me about **Java, Python, Tech**
 
 - 📫 How to reach me **emjayfactor@gmail.com**
 
