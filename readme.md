@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **DSA, Dynamic Programming**
 
-- 👨‍💻 Some of my projects are available at [https://mjfactor.netlify.app/](https://mjfactor.netlify.app/)
-
 - 💬 Ask me about **Java, Python, Tech**
 
 - 📫 How to reach me **emjayfactor@gmail.com**
