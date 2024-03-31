@@ -116,7 +116,7 @@
 </div>
 <br>
 <details>
-  <summary>Contribution</summary>
+  <summary>My Snake</summary>
   <img src="https://github.com/mjfactor/mjfactor/blob/output/snake.svg" alt="Snake animation" />
 </details>
 <hr>
