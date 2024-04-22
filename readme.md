@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30" alt="javascript logo"  />
 </div>
 
-<h3 align="left">Database:</h3>
+<h3 align="left">Databases:</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
   <img width="1" />
