@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, Python, Tech**
 
-- 📫 How to reach me **emjayfactor@gmail.com**
+- 📫 Email me: **emjayfactor@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
