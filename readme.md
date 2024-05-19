@@ -18,8 +18,7 @@
   <a href="https://www.facebook.com/profile.php?id=100009675437425"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30"  alt="python logo"/></a>
   <img width="1"> 
   <a href="https://www.linkedin.com/in/emjay-factor-6b01ab209/"target="_blank" rel="noopener"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  height="30" alt="python logo"/></a>
-  <img width="1"> 
-  
+  <img width="1">   
 </div>
 
 <h3 align="left">Languages:</h3>
@@ -70,6 +69,14 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
+</div>
+
+<h3 align="left">Hosting:</h3>
+<div align="left">
+  <a href=""><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img width="1"> 
+  <a href=""><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/></a>
+  <img width="1">   
 </div>
 
 <h3 align="left">IDEs & Editors:</h3>
