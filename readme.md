@@ -67,8 +67,15 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
+</div>
+
+<h3 align="left">ML/DL:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="30" alt="pycharm logo"  />
 </div>
 
 <h3 align="left">Hosting:</h3>
