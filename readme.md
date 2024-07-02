@@ -154,9 +154,5 @@
 ###  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor" />
 
-###
-<details>
-  <summary>Certificates</summary>
- <a href="https://v1.scrimba.com/certificate/uP4D7ZAV/gaiengineer" style="font-size:14px; margin-top: 2px; target="_blank"">AI from Scrimba</a>
-</details>
+
 
