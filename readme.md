@@ -78,6 +78,9 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
 </div>
 
 <h3 align="left">Hosting:</h3>
