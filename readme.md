@@ -80,6 +80,8 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="pycharm logo"  />
   <img width="1" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30" alt="pycharm logo"  />
+  <img width="1" />
 </div>
 
 <h3 align="left">Hosting:</h3>
