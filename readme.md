@@ -142,6 +142,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="30" alt="python logo"  />
   <img width="1" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="python logo"  />
+  <img width="1" />
 </div>
 <br>
 <details>
