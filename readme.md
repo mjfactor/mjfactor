@@ -23,93 +23,92 @@
 <h3 align="left">These are the tools and technologies I'm familiar with:</h3>
 <div align="middle">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" alt="csharp logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="css3 logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="30" alt="javascript logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="30" alt="javascript logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30" alt="javascript logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" height="30" alt="python logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/swing-red?style=for-the-badge&logo=coffeescript" height="30" alt="pycharm logo"  />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img width="1">
+  <img width="2">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/></a>
-  <img width="1">
+  <img width="2">
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="30" alt="python logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellijidea logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" height="30" alt="webstorm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="30" alt="webstorm logo"  />
-
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="python logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" alt="python logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30" alt="pycharm logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white" height="30" alt="pycharm logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30" alt="python logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="pycharm logo"  />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="30" alt="python logo"  />
-  <img width="1" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="python logo"  />
-  <img width="1" />
+  <img width="2" />
 </div>
 
 <br>
