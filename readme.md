@@ -143,4 +143,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor" />
 
-<a href="https://app.daily.dev/mosfet69"><img src="https://api.daily.dev/devcards/v2/qWgYycrl0DGNGuBdd52DW.png?type=default&r=hsu" width="356" alt="Emjay Factor's Dev Card"/></a>
+
