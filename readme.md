@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjfactor&label=Profile%20views&color=0e75b6&style=flat" alt="mjfactor" /> </p>
 
-- 🌱 I’m currently learning **DSA, Dynamic Programming**
+- 🌱 I’m currently learning **DSA, Docker**
 
 - 💬 Ask me about **Java, Python, Tech**
 
