@@ -134,13 +134,14 @@
 </details>
 <hr>
 <h3 align="left">Dashboard:</h3>
-<a href="">
+<div align="center">
   <img height=200 align="center" src="https://github-readme-stats-mjfctors-projects.vercel.app/api/top-langs?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" /></a>
-<a href="">
-  <br>
   <img height=200 align="center" src="https://github-readme-stats-mjfctors-projects.vercel.app/api?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&langs_count=8&card_width=320"/></a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor"/>
+  
+
+
 
 
 
