@@ -126,12 +126,10 @@
   <img width="2" />
 </div>
 
-
 <br>
-<details>
-  <summary>My Snake</summary>
+<div align="center">
   <img src="https://github.com/mjfactor/mjfactor/blob/output/snake.svg" alt="Snake animation" />
-</details>
+</div>
 <hr>
 <h3 align="left">Dashboard:</h3>
 <div align="center">
