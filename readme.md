@@ -20,6 +20,37 @@
   <img width="1">   
 </div>
 
+<h3 align="left">Technologies I used:</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Google Gemini logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/GitHub%20Models-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Models logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/Doppler-000000?style=for-the-badge&logo=doppler&logoColor=white" height="30" alt="Doppler logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" alt="React logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30" alt="Supabase logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firebase logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="Streamlit logo"/>
+  <img width="1"> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="Next.js logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="VS Code logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker logo"/>
+</div>
+
 <!---
 <h3 align="left">These are the tools and technologies I'm familiar with:</h3>
 <div align="middle">
@@ -137,8 +168,9 @@
   <img height=200 align="center" src="https://github-readme-stats-mjfctors-projects.vercel.app/api/top-langs?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" /></a>
   <img height=200 align="center" src="https://github-readme-stats-mjfctors-projects.vercel.app/api?username=mjfactor&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&langs_count=8&card_width=320"/></a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjfactor&theme=vision-friendly-dark" alt="mjfactor"/>
+</div>
 
-  
+
 
 
 
