@@ -20,7 +20,7 @@
 
 <h3 align="left">Technologies I used:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Google Gemini logo"/>
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" height="30" alt="Google Gemini logo"/>
   <img width="1"> 
   <img src="https://img.shields.io/badge/GitHub%20Models-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Models logo"/>
   <img width="1"> 
@@ -47,6 +47,12 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="VS Code logo"/>
   <img width="1">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Docker logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" height="30" alt="Docker logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="30" alt="Docker logo"/>
 </div>
 
 <!---
