@@ -20,39 +20,49 @@
 
 <h3 align="left">Technologies I used:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" height="30" alt="Google Gemini logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/GitHub%20Models-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Models logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/Doppler-000000?style=for-the-badge&logo=doppler&logoColor=white" height="30" alt="Doppler logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" alt="React logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30" alt="Supabase logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firebase logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="Streamlit logo"/>
-  <img width="1"> 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="Next.js logo"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" height="30" alt="TypeScript logo"/>
   <img width="1">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="VS Code logo"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" height="30" alt="React logo"/>
   <img width="1">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker logo"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge" height="30" alt="Google Cloud logo"/>
   <img width="1">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Docker logo"/>
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge" height="30" alt="Next.js logo"/>
   <img width="1">
-  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" height="30" alt="Docker logo"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" height="30" alt="Node.js logo"/>
   <img width="1">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="30" alt="Docker logo"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="C# logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge" height="30" alt="npm logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="30" alt="Python logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white&style=for-the-badge" height="30" alt="LangChain logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="PostgreSQL logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" height="30" alt="Docker logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white&style=for-the-badge" height="30" alt="PHP logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="Vercel logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff&style=for-the-badge" height="30" alt="Google Gemini logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="Microsoft Azure logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" height="30" alt="GitHub logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge" height="30" alt="Express.js logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="Redis logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="30" alt="C++ logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="MongoDB logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge" height="30" alt="GitHub Copilot logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge" height="30" alt="Hugging Face logo"/>
 </div>
 
 <!---
