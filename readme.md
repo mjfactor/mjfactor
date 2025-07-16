@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge" height="30" alt="GitHub Copilot logo"/>
   <img width="1">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge" height="30" alt="Hugging Face logo"/>
+  <img width="1">
+  <img src="https://img.shields.io/badge/FastAPI-FFD21E?logo=fastapi&logoColor=000&style=for-the-badge" height="30" alt="Fast API Logo"/>
 </div>
 
 <!---
