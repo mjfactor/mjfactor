@@ -60,6 +60,8 @@
   <img width="1">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="MongoDB logo"/>
   <img width="1">
+  <img src="https://img.shields.io/badge/ChromaDB-%239D4EDD.svg?logoColor=white&style=for-the-badge" height="30" alt="ChromaDB logo"/>
+  <img width="1">
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge" height="30" alt="GitHub Copilot logo"/>
   <img width="1">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge" height="30" alt="Hugging Face logo"/>
