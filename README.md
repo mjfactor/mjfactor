@@ -1,30 +1,23 @@
 Hi — I’m mjfactor 👋
 
-I’m a software engineer who builds web applications with AI integrations. I focus on practical, reliable solutions that bring AI features into products — chat, recommendations, embeddings, and automation.
+I’m a software engineer who builds web applications with AI integrations. I focus on practical, reliable solutions that bring AI features into products — chat, recommendations, embeddings, and automation using pre-trained models and APIs.
 
 What I do
-- Build web apps and APIs that integrate machine learning and LLMs
-- Ship production-ready features (frontend, backend, infra)
-- Bridge ML models and product UX for measurable value
+- Build web apps and APIs that integrate pre-trained AI models and APIs
+- Bridge existing AI models and product UX for measurable value
 
 Skills
-- Languages: JavaScript, TypeScript, Python
-- Frontend: React, Next.js
-- Backend: Node.js, Express, FastAPI
-- AI/ML: OpenAI, LangChain, embeddings, prompt engineering
+- Languages: TypeScript, Python, C#
+- AI: Gemini API, OpenAI, embeddings, prompt engineering, LangChain, LangGraph, n8n
 - DevOps: Docker, CI/CD, AWS/GCP
-
-Selected projects
-- project-name-1 — short description (e.g., "Real-time chat with LLM + context management")
-- project-name-2 — short description (e.g., "AI-powered search using sentence embeddings")
 
 Open to
 - Collaborations on web + AI projects
-- Contract/part-time roles integrating AI into products
+- Contract/part-time roles integrating AI features into products
 - Open-source contributions
 
 Contact
-- Email: (your-email@example.com)
-- Twitter/LinkedIn: (your-handle)
+- Email: emjayfactor@gmail.com
+- LinkedIn: [Profile](https://www.linkedin.com/in/emjay-factor-6b01ab209/)
 
 Thanks for stopping by — feel free to look through my repositories and reach out!
