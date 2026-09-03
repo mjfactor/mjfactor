@@ -1,6 +1,6 @@
 Hi — I’m mjfactor 👋
 
-I’m a software engineer who loves AI integrations. I focus on practical, reliable solutions that bring AI features into products — chat, recommendations, embeddings, and automation using pre-trained models and APIs.
+I’m a software engineer who loves AI integrations. I focus on practical, reliable solutions that bring AI features into products: chatbot, recommendations, embeddings, and automation using pre-trained models and APIs.
 
 What I do
 - Build web apps and APIs that integrate pre-trained AI models and APIs
@@ -19,4 +19,4 @@ Contact
 - Email: emjayfactor@gmail.com
 - LinkedIn: [Profile](https://www.linkedin.com/in/emjay-factor-6b01ab209/)
 
-Thanks for stopping by — feel free to look through my repositories and reach out!
+Thanks for stopping by, feel free to look through my repositories and reach out!
