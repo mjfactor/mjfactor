@@ -7,9 +7,8 @@ What I do
 - Bridge existing AI models and product UX for measurable value
 
 Skills
-- Languages: TypeScript, Python, C#
-- AI: Gemini API, OpenAI, embeddings, prompt engineering, LangChain, LangGraph, n8n
-- DevOps: Docker, CI/CD, AWS/GCP
+- AI: Gemini API, OpenAI, embeddings, prompt engineering, Langchain/LangGraph, n8n
+- Other: Next.js, C#, Python, CI/CD, deploymennts, Java, Groovy, Docker
 
 Open to
 - Collaborations on web + AI projects
