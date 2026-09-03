@@ -1,6 +1,6 @@
 Hi — I’m mjfactor 👋
 
-I’m a software engineer who builds web applications with AI integrations. I focus on practical, reliable solutions that bring AI features into products — chat, recommendations, embeddings, and automation using pre-trained models and APIs.
+I’m a software engineer who loves AI integrations. I focus on practical, reliable solutions that bring AI features into products — chat, recommendations, embeddings, and automation using pre-trained models and APIs.
 
 What I do
 - Build web apps and APIs that integrate pre-trained AI models and APIs
